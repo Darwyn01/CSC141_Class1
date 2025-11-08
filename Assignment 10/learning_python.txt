@@ -1,0 +1,3 @@
+In Python you can use dictionaries. 
+In Python you can use the import function. 
+In Python you can store items in a list. 
